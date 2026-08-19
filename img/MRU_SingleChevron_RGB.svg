@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="MRU_Single_Chevron_Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 126 162.2">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .2;
+      }
+
+      .st0, .st1 {
+        fill: #0077ae;
+      }
+
+      .st2 {
+        fill: #003a5f;
+      }
+
+      .st3 {
+        opacity: .3;
+      }
+
+      .st4 {
+        display: none;
+      }
+    </style>
+  </defs>
+  <g id="Chevron">
+    <polygon class="st2" points="63 131.1 31.5 100.2 31.5 30.8 63 61.7 63 131.1"/>
+    <polygon class="st1" points="63 131.1 94.5 100.2 94.5 30.8 63 61.7 63 131.1"/>
+  </g>
+  <g id="Guides" class="st4">
+    <g class="st3">
+      <path class="st1" d="M88.5,30.8h-3v.2h3v-.2h0ZM82.5,30.8h-3v.2h3v-.2h0ZM76.5,30.8h-3v.2h3v-.2h0ZM70.5,30.8h-3v.2h3v-.2h0ZM64.5,30.8h-3v.2h3v-.2h0ZM58.5,30.8h-3v.2h3v-.2h0ZM52.5,30.8h-3v.2h3v-.2h0ZM46.5,30.8h-3v.2h3v-.2h0ZM40.5,30.8h-3v.2h3v-.2h0ZM34.5,30.8h-2.9v.2h2.9v-.2h0ZM31.8,33.9h-.2v3h.2v-3h0ZM31.8,39.9h-.2v3h.2v-3h0ZM31.8,45.9h-.2v3h.2v-3h0ZM31.8,51.9h-.2v3h.2v-3h0ZM31.8,57.9h-.2v3h.2v-3h0ZM31.8,63.9h-.2v3h.2v-3h0ZM31.8,69.9h-.2v3h.2v-3h0ZM31.8,75.9h-.2v3h.2v-3h0ZM31.8,81.9h-.2v3h.2v-3h0ZM31.8,87.9h-.2v3h.2v-3h0ZM31.8,93.9h-.2v3h.2v-3h0ZM31.8,99.9h-.2v3h.2v-3h0ZM31.8,105.9h-.2v3h.2v-3h0ZM31.8,111.9h-.2v3h.2v-3h0ZM31.8,117.9h-.2v3h.2v-3h0ZM31.8,123.9h-.2v3h.2v-3h0ZM31.8,129.9h-.2v1.2h1.8v-.2h-1.5v-1h0ZM39.3,130.9h-3v.2h3v-.2h0ZM45.3,130.9h-3v.2h3v-.2h0ZM51.3,130.9h-3v.2h3v-.2h0ZM57.3,130.9h-3v.2h3v-.2h0ZM63.3,130.9h-3v.2h3v-.2h0ZM69.3,130.9h-3v.2h3v-.2h0ZM75.3,130.9h-3v.2h3v-.2h0ZM81.3,130.9h-3v.2h3v-.2h0ZM87.3,130.9h-3v.2h3v-.2h0ZM93.3,130.9h-3v.2h3v-.2h0ZM94.5,126.3h-.2v3h.2v-3h0ZM94.5,120.3h-.2v3h.2v-3h0ZM94.5,114.3h-.2v3h.2v-3h0ZM94.5,108.3h-.2v3h.2v-3h0ZM94.5,102.3h-.2v3h.2v-3h0ZM94.5,96.3h-.2v3h.2v-3h0ZM94.5,90.3h-.2v3h.2v-3h0ZM94.5,84.3h-.2v3h.2v-3h0ZM94.5,78.3h-.2v3h.2v-3h0ZM94.5,72.3h-.2v3h.2v-3h0ZM94.5,66.3h-.2v3h.2v-3h0ZM94.5,60.3h-.2v3h.2v-3h0ZM94.5,54.3h-.2v3h.2v-3h0ZM94.5,48.3h-.2v3h.2v-3h0ZM94.5,42.3h-.2v3h.2v-3h0ZM94.5,36.3h-.2v3h.2v-3h0ZM94.5,30.8h-3v.2h2.8v2.2h.2v-2.5h0Z"/>
+    </g>
+    <polygon class="st0" points="0 162.1 31.5 131.1 31.5 61.8 0 92.6 0 162.1"/>
+    <polygon class="st0" points="94.5 100.4 125.9 69.4 125.9 0 94.5 30.9 94.5 100.4"/>
+  </g>
+</svg>

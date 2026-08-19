@@ -1,0 +1,164 @@
+/*
+@theme marp-mru
+@auto-scaling true
+*/
+
+/* mru theme for MARP. Just some customizations on top of default for now. */
+
+@import "default";
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 50px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+  color: #003352;
+}
+
+section.title_slide {
+  text-align: center;
+  background-color: #003352;
+  color: white;
+}
+
+section.title_slide p {
+  margin-top: 2em;
+}
+
+section.title_slide h1,
+section.title_slide h2,
+section.title_slide h3,
+section.title_slide h4,
+section.title_slide h5,
+section.title_slide h6 {
+  color: white;
+  background-color: transparent;
+}
+
+section.discussion_question {
+  padding-top: 20%;
+  text-align: center;
+}
+
+section.discussion_question p {
+  font-size: 60px;
+  font-weight: bold;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+}
+
+section.discussion_question p::before {
+  content: "?";
+  display: flex;
+  align-items: center;
+  color: #003352;
+  font-size: 120px;
+  font-weight: bold;
+}
+
+section blockquote {
+  margin: 1em;
+  font-style: italic;
+}
+
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  color: #007fb5;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 1rem;
+  align-items: center;
+}
+
+.centred {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img[alt*="emoji"] {
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em;
+}
+
+.fullgrid table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fullgrid td,
+.fullgrid th {
+  min-width: 0px !important;
+  border: solid black 1px !important;
+  font-family: monospace;
+}
+
+.plaingrid table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.plaingrid td,
+.plaingrid th {
+  min-width: 1.5em !important;
+  border: solid black 1px !important;
+  font-weight: normal;
+  font-family: monospace;
+  background-color: white;
+  text-align: center;
+}
+
+.Alpha ol {
+  list-style: upper-alpha;
+}
+
+.alpha ol {
+  list-style: lower-alpha;
+}
+
+.pro li::marker {
+  content: "+ ";
+  color: green;
+  font-weight: bold;
+}
+
+.con li::marker {
+  content: "- ";
+  color: red;
+  font-weight: bold;
+}
+
+/* Add a border below the slide headers */
+h1,
+h2 {
+  border-bottom: 1px solid #8aa6da;
+}
+
+/* Move the title to the top */
+section {
+  justify-content: flex-start;
+  display: flex;
+}
+
+section.title_slide {
+  justify-content: center;
+}
+
+section.code_reminder::after {
+  content: "🛠️ " attr(data-marpit-pagination);
+}
