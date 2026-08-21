@@ -1,0 +1,30 @@
+name: Render Lectures
+
+on:
+  push:
+    branches: 
+      - main
+    paths:
+      - 'lectures/*.md'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+      - name: Process Marp Slides
+        run: |
+          chmod +x .github/process_slides.sh
+          .github/process_slides.sh
+
+      - name: Publish to repo
+        run: |
+          git config --global user.name 'Charlotte Curtis'
+          git config --global user.email 'ccurtis@mtroyal.ca'
+          git add lectures
+          git add README.md
+          git commit -m "Rendering lectures"
+          git push
