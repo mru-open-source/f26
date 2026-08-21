@@ -42,24 +42,25 @@ section.title_slide h6 {
 
 section.discussion_question {
   padding-top: 20%;
-  text-align: center;
+  background: linear-gradient(#00568b 0, #003352 100%);
 }
 
 section.discussion_question p {
   font-size: 60px;
   font-weight: bold;
   font-style: italic;
+  color: white;
   display: flex;
   align-items: center;
 }
 
 section.discussion_question p::before {
-  content: "?";
+  content: "❓";
   display: flex;
   align-items: center;
-  color: #003352;
   font-size: 120px;
   font-weight: bold;
+  margin-right: 1em;
 }
 
 section blockquote {
