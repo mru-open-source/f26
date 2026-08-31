@@ -1,1 +1,4 @@
 .vscode
+
+# temporary marp files
+lectures/*.html

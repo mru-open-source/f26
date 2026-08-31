@@ -18,4 +18,3 @@ The following schedule is tentative, but will be updated each week prior to the 
 | Nov 12  | 10  | Testing and reviewing            |
 | Nov 26  | 11  | *Work period*                    |
 | Dec 3   | 12  | *Work period*                    |
-
