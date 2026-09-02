@@ -156,4 +156,4 @@ What are some barriers to contributing to open source?
     - [GitLab](https://gitlab.com/)
     - [CodeBerg](https://codeberg.org/)
 
-> **Homework**: for next lecture, bring a list of 3-5 OSS projects that you use
+> **Homework**: for next lecture, respond to the [discussion post](https://github.com/mru-open-source/f26/discussions/1) with links to 3-5 OSS projects that you use
