@@ -13,7 +13,6 @@ for md in lectures/*.md; do
             fi
         fi
         npx @marp-team/marp-cli@latest --theme lectures/marp-mru.css --allow-local-files --pdf --html $md -o lectures/pdfs/$doc.pdf
-        npx @marp-team/marp-cli@latest --theme lectures/marp-mru.css --allow-local-files --bespoke.progress --html $md -o lectures/html/$doc.html
 
         date=$(grep -oP "(?<=^date:\s).+$" $md | xargs)
         title=$(grep -oP "(?<=^title:\s).+$" $md | xargs)
