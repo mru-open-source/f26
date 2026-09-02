@@ -1,6 +1,6 @@
 ---
 title: "1. Introduction"
-date: 2026-09-08
+date: 2026-09-09
 marp: true
 theme: marp-mru
 paginate: true
@@ -15,7 +15,7 @@ _paginate: skip
 ### <!--fit-->Introduction
 
 Charlotte Curtis
-September 8, 2026
+September 9, 2026
 
 ---
 
