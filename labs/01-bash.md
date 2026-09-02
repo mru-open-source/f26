@@ -35,6 +35,7 @@ I expect you to gain familiarity with the following:
 - `ssh` log in to a remote server
 - `man` display the manual entry for a given command
 - `find` search for a file
+- `grep` search for patterns inside files
 - `exit` exit shell (log out)
 
 All of these commands have various options that can be modified through the use of **flags** (boolean switches) or **parameters** (arguments with values). For example, by default `ls` does not show hidden files, but you can use the `--all` (or `-a` for short) flag to include them.
