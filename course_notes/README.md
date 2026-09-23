@@ -26,6 +26,7 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 
 | Date | Topic |
 | ---- | ----- |
+| Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md) |
 
 ## Rubric
 You will be evaluated on the correctness and completeness of your submission according to the following 4-point scale. Both author and reviewer will receive the same score, unless there is a clear and documented effort imbalance.
