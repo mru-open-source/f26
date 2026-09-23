@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-            token: ${{ secrets.BYPASS_TOKEN }}
+          ssh-key: ${{ secrets.RENDER_KEY }}
       - name: Process Marp Slides
         run: |
           chmod +x .github/process_slides.sh
