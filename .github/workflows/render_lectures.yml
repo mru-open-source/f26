@@ -2,11 +2,11 @@ name: Render Lectures
 
 on:
   push:
-    branches: 
+    branches:
       - main
     paths:
       - 'lectures/*.md'
-  
+
   workflow_dispatch:
 
 jobs:
