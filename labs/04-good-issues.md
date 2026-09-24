@@ -9,6 +9,7 @@ In this lab, we'll cover:
 - Pitfalls to avoid
 - Practice writing issues
 
+
 ## Background
 Thanks to AI making it easier than ever to write a bunch of words and "contribute" to a project, the quality of contributions (including issue reports) is more critical than ever. Take, for example, [curl's experience](https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/) with "AI slop" security reports. While this example focuses specifically on security-related issues, the problem persists in other bug reports, pull requests, and feature requests. The focus of this lab is on bug reports.
 
