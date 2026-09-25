@@ -27,7 +27,7 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 | Date | Topic |
 | ---- | ----- |
 | Sept 16 | [Common Documents in FOSS Projects](16-09-common-docs-in-foss-projects.md) |
-| Sept 23 | [Roles in FOSS Projects] (course_notes/23-09-FOSS-roles.md) |
+| Sept 23 | [Roles in FOSS Projects](course_notes/23-09-FOSS-roles.md) |
 
 ## Rubric
 You will be evaluated on the correctness and completeness of your submission according to the following 4-point scale. Both author and reviewer will receive the same score, unless there is a clear and documented effort imbalance.
