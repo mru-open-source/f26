@@ -73,7 +73,9 @@ Open:
 | License | Key Characteristics                                                  | Type                                                     |
 |---------|----------------------------------------------------------------------|----------------------------------------------------------|
 | MIT     | Brief and flexible, allows commercial and non-commercial use of code | Permissive (considered the "default" Permissive license) |
-| ...        | ...                                                                    | ...                                                         |
+| Apache  | Longer, flexible, allows for patents                     | Permissive                                                       |
+| GNU | Even longer, modified code must also have GNU license, allows for patents, allows commercial and non-commercial use of code | Copyleft |
+| Creative Commons | Less common for code, usually for webpages, digital images, videos, etc. | Copyleft |
 
 
 
