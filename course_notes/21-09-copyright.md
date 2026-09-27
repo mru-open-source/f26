@@ -10,7 +10,7 @@
 
 
 * **Intellectual Property (IP)**: Typically a creative work, product of one’s mental labour.
-* **Copyright**: A type of IP – the creator has the exclusive right to copy, distribute, adapt, display, and perform an original creative work.
+* **Copyright**: A type of IP – the creator has the exclusive right to copy, distribute, adapt, display, and perform an original creative work (e.g., artistic work, literary work, dramatic work).
 
   * Code is a type of **Literary Work**, which is copyrighted.
 
