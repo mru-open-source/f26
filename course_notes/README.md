@@ -26,6 +26,7 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 
 | Date | Topic |
 | ---- | ----- |
+| Sept 16 | [Common Documents in FOSS Projects](16-09-common-docs-in-foss-projects.md) |
 | Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md) |
 
 ## Rubric
