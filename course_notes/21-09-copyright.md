@@ -38,6 +38,7 @@
 
 
 
+#### Code & Copyright
 Protected Code Components: Source Code, Object Code, Visual Software Representation
 
 Unprotected Code Components: Underlying Ideas, Logic/Algorithms, Functional Behaviour
