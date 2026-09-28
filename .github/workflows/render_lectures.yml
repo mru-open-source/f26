@@ -2,11 +2,11 @@ name: Render Lectures
 
 on:
   push:
-    branches: 
+    branches:
       - main
     paths:
       - 'lectures/*.md'
-  
+
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
+        with:
+          ssh-key: ${{ secrets.RENDER_KEY }}
       - name: Process Marp Slides
         run: |
           chmod +x .github/process_slides.sh
