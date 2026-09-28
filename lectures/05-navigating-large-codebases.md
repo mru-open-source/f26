@@ -108,6 +108,13 @@ September 28, 2026
 
 ---
 
+## Git tools: who and when
+- `git blame filename`: line-by-line listing of commits
+- `git log -L :funcname:filename`: history of specific function in file
+- `git grep`: Like regular grep, but only searches tracked files and can search previous commits
+
+---
+
 ## Coming up next
 
 Wednesday: Truth and Reconciliation day, no classes
