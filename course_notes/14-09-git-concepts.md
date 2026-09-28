@@ -23,7 +23,11 @@ Git is the most widley used software for version control, made by Linus Torvalds
 > [!CAUTION]
 > Direcion of arrow diagrams in lecture slides when it comes to push/pull is incorrrect.
 
-- `checkout <branch>`: working branch is the one we passed in to check out and we can use `-b` flag to create a new branch if needed (equivalent to `git branch <branch>`)
+- `checkout <branch>`: working branch is the one we passed in to check out and we can use `-b` flag if needed to create a new branch and check that out (equivalent to `git branch <branch>` and then running `checkout`)
+
+> [!INFO]
+> Branches can be used to modularize changes; a good example is to have a branch each for any features or bugfixes. Compare this to forks. Forks create independent copies of a repository, which are useful when you want to make changes without direct write access to the original project or develop changes separately before proposing them upstream.
+
 - `switch`: equivalent to `checkout` as far as I can see? `-b` flag is also the same thing
 git log, status, add, commit, push, pull, reset, init, clone
 - `merge <branch>`: merges the current branch into `<branch>`
