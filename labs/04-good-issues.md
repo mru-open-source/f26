@@ -47,3 +47,13 @@ Assumption: you've found a bug in your favourite FOSS software and want to raise
 > As usual, I got a little long-winded. For more info and examples, check out [Section 6.4.5: Anatomy of a Good Bug Report](https://runestone.academy/ns/books/published/opensource/sec_issues_bugs.html?mode=browsing) in the Runestone text.
 
 ## Activity description
+1. Go back to the [git-practice](https://github.com/mru-open-source/git-practice) repo and download the script in the `silly_example` directory. This is a fairly useless Python program that has at least one intentional bug, and likely more unintentional.
+
+2. Run the `process.py` script and figure out what the bug is.
+
+3. Create a [new issue](https://github.com/mru-open-source/git-practice/issues) in the git-practice repo, following the reporting guidelines described above.
+  > [!NOTE]
+  > This time, skip the duplicate check — you'll all be reporting more or less the same issue. Try not to read other issues before submitting your own, but feel free to go back and check afterwards to see different interpretations.
+
+## Deliverables
+As with previous labs, it doesn't need to be perfect to get credit. I'll check for your issue reports and as long as you didn't offload this task to AI, you'll get the lab completion mark.

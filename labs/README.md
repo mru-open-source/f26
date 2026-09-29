@@ -9,7 +9,7 @@ The following schedule is tentative, but will be updated each week prior to the 
 | Sept 3  | 1   | [Basic bash](01-bash.md)                     | Sept 16*  |
 | Sept 10 | 2   | [Git 1](02-git-1.md)                         | Sept 23*  |
 | Sept 17 | 3   | [Git 2](03-git-2.md)                         | Sept 23   |
-| Sept 24 | 4   | Writing good issues                          | Sept 30   |
+| Sept 24 | 4   | [Writing good issues](04-good-issues.md)     | Sept 30   |
 | Oct 1   | 5   | Cancelled — come to the AI panel discussion! |           |
 | Oct 8   | 6   | Navigating a large codebase                  | Oct 14    |
 | Oct 22  | 7   | Handling merge conflicts                     | Oct 28    |
