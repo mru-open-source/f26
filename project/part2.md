@@ -51,7 +51,7 @@ If you're nervous about making a mistake in communication, that's normal! Puttin
 
 Before reproducing or fixing an issue, you'll need your own copy of the source code. Forking is usually fairly straightforward, but building your copy locally can be painful, depending on the tech stack, the state of the documentation, and your OS.
 
-Create a fork in GitHub/GitLab/Codeberg and clone it to your system. To make sure you are always working on up-to-date code, add a remote to connect your _local_ repo to upstream:
+Create a fork in GitHub/GitLab/Codeberg and clone it to your system. To make sure you are always working on up-to-date code, add a remote to connect your *local* repo to upstream:
 
 ```bash
 git remote add upstream <original-project-url>
@@ -103,7 +103,7 @@ Example for communication:
 
 > I joined the main chat and introduced myself, then asked a question about how to approach issue \#1234. I checked in with the chat daily and kept an eye on new issues and PRs. I found that it wasn't super active until Oct 17, when a new release was planned and there was a lot of discussion about CI stuff and cross-platform builds.
 >
-> <screenshot of chat>
+> <screenshot of introduction in chat>
 
 ### Conclusion
 
@@ -141,3 +141,5 @@ The presentation will be scored with an additional five points on a simplified s
 | 5     | Complete presentation                                 |
 
 This follows the same logic as part 1, where the presentation makes up 20\% of the grade.
+
+In addition, a 10\% bonus (2.5 / 25) will be applied if your PR is accepted and merged by the deadline.
