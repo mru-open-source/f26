@@ -33,6 +33,7 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 | Sept 16 | [Common Documents in FOSS Projects](16-09-common-docs-in-foss-projects.md) |
 | Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md) |
 | Sep 23 | [Evaluating Project Activity](23-09-evaluating-project-activity.md)|
+| Oct 19 | [Resolving Conflicts in Git](19-10-resolving-conflicts.md)|
 
 ## Rubric
 
