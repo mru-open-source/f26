@@ -32,8 +32,8 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 | Sept 14 | [Git Concepts](14-09-git-concepts.md) |
 | Sept 16 | [Common Documents in FOSS Projects](16-09-common-docs-in-foss-projects.md) |
 | Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md) |
-| Sept 23 | [Roles in FOSS Projects](23-09-FOSS-roles.md) |
-| Sept 23 | [Evaluating Project Activity](23-09-evaluating-project-activity.md)|
+| Sep 23 | [Evaluating Project Activity](23-09-evaluating-project-activity.md)|
+| Sept 28 | [Navigating Large Codebases](28-09-navigating-large-codebases-with-regex.md) |
 
 ## Rubric
 
