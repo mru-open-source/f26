@@ -4,6 +4,9 @@ Welcome to Special Topics in Computing for Fall 2026!
 
 This repo will serve as the main hub for content, including lecture slides, class discussion notes, lab activities, and assignment instruction. D2L will be used for announcements, grades, and any other confidential information.
 
+> [!TIP]
+> I've written up a [summary of concepts](etc/exam-concepts.md) that could appear on the exam. This is the list I am using to write the exam, so it might be helpful for you while studying.
+
 ## Lecture quick links
 
 | Date | Lecture | PDF Slides |
