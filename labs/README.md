@@ -12,7 +12,7 @@ The following schedule is tentative, but will be updated each week prior to the 
 | Sept 24 | 4   | [Writing good issues](04-good-issues.md)     | Sept 30   |
 | Oct 1   | 5   | Cancelled — come to the AI panel discussion! |           |
 | Oct 8   | 6   | [Navigating a large codebase](05-exploring-code.md) | Oct 14    |
-| Oct 22  | 7   | Handling merge conflicts                     | Oct 28    |
+| Oct 22  | 7   | [Even more git](06-git-3.md)                 | Oct 28    |
 | Oct 29  | 8   | *Day after midterm -- cancelled*             |           |
 | Nov 5   | 9   | CI/CD                                        | Nov 11    |
 | Nov 12  | 10  | Testing and reviewing                        | Nov 18    |
