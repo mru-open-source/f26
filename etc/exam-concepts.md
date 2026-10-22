@@ -70,13 +70,6 @@ At this point in the course, you should understand:
 8. The various meanings of "upstream"
 9. Common commit message and pull request conventions
 10. Dependency tracking using submodules and custom patches (at a high level)
-11. Expenses in FOSS projects
-12. Funding sources, including:
-  - Corporate sponsorship
-  - Individual sponsorship
-  - Non-profit grants
-  - Government grants
-13. Making a living as a FOSS developer
 
 ## Copyright and Licensing
 
