@@ -34,6 +34,7 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 | Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md) |
 | Sep 23 | [Evaluating Project Activity](23-09-evaluating-project-activity.md)|
 | Sept 28 | [Navigating Large Codebases](28-09-navigating-large-codebases-with-regex.md) |
+| Oct 19 | [More Adventures with Git](19-10-interacting-upstream.md) |
 
 ## Rubric
 
