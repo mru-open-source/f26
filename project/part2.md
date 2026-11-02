@@ -1,6 +1,6 @@
 # Part 2: Your first contribution(s)
 
-Writeup Due Nov 6, 2026
+Writeup Due ~~Nov 6, 2026~~ Nov 13, 2026 at 5 pm. This is a Friday — realistically I will not be marking things until the following Monday, but I also won't be responding to email requests.
 
 Suggested PR submission deadline: Oct 30, 2026
 
@@ -8,9 +8,11 @@ Suggested PR submission deadline: Oct 30, 2026
 - [Tasks](#tasks)
   - [Communication](#communication)
   - [Forking and building](#forking-and-building)
-  - [Reproducing issues](#reproducing-issues)
-  - [Fixing an issue](#fixing-an-issue)
+  - [Finding and reproducing bugs](#finding-and-reproducing-bugs)
+  - [Your first pull/merge request](#your-first-pullmerge-request)
 - [Reporting](#reporting)
+  - [One paragraph per task](#one-paragraph-per-task)
+  - [Conclusion](#conclusion)
 - [Presentation](#presentation)
 - [Rubric](#rubric)
 
