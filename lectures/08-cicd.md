@@ -170,8 +170,46 @@ What convention does your project use? Anything other than these two?
 
 ---
 
+## Containerization
+
+> A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. — [Docker website](https://www.docker.com/resources/what-container/)
+
+- A solution to the problem of "but it works on my machine"
+- **Not** the same thing as a virtual machine
+- Commonly used for CI pipelines, development, deployed for web services
+
+I'm going to rely on someone else' [video overview](https://www.youtube.com/watch?v=EUrFVnCnxLE)
+
+<footer>Originally scheduled as a separate lecture, but I think it fits here</footer>
+
+---
+
+## Implementations
+- [chroot](https://en.wikipedia.org/wiki/Chroot) is arguably the first "container" or "sandbox"
+- Various other systems over the years
+- [Docker](https://www.docker.com) in 2013 has become a defacto standard
+- [Kubernetes](https://kubernetes.io/) (or K8s) was launched in 2014 to "orchestrate" Docker containers
+- [Podman](https://podman.io/) was created in 2018 to be highly compatible with Docker, but daemonless, without root access by default
+
+---
+
+## Hello world
+- The [Hello world](https://hub.docker.com/_/hello-world) Docker image is as simple as it gets
+- The [source code](https://github.com/docker-library/hello-world) looks kind of complicated though
+- [Podman](https://github.com/containers/PodmanHello) is similar
+
+![bg right 80%](../img/08-podman.png)
+
+---
+
+## Additional reading
+Here are some additional references that I used:
+- [Docker vs Podman YouTube short](https://www.youtube.com/shorts/OM3LfuQRL3s)
+- [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/) for a more technical overview
+
+---
+
 ## Coming up next
-- Containerization and sandboxed environments
 - Performing code reviews
 - Unit testing
 - Project part 2 presentations
