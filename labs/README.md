@@ -10,14 +10,14 @@ The following schedule is tentative, but will be updated each week prior to the 
 | Sept 10 | 2   | [Git 1](02-git-1.md)                         | Sept 23*  |
 | Sept 17 | 3   | [Git 2](03-git-2.md)                         | Sept 23   |
 | Sept 24 | 4   | [Writing good issues](04-good-issues.md)     | Sept 30   |
-| Oct 1   | 5   | Cancelled — come to the AI panel discussion! |           |
-| Oct 8   | 6   | [Navigating a large codebase](05-exploring-code.md) | Oct 14    |
-| Oct 22  | 7   | Handling merge conflicts                     | Oct 28    |
-| Oct 29  | 8   | *Day after midterm -- cancelled*             |           |
-| Nov 5   | 9   | CI/CD                                        | Nov 11    |
-| Nov 12  | 10  | Testing and reviewing                        | Nov 18    |
-| Nov 19  | 11  | Building your public profile                 | Nov 25    |
-| Nov 26  | 12  | *Work period*                                |           |
-| Dec 3   | 13  | *Work period*                                |           |
+| Oct 1   |     | Cancelled — come to the AI panel discussion! |           |
+| Oct 8   | 5   | [Navigating a large codebase](05-exploring-code.md) | Oct 14    |
+| Oct 22  | 6   | [Even more git](06-git-3.md)                 | Oct 28    |
+| Oct 29  |     | *Day after midterm -- cancelled*             |           |
+| Nov 5   | 7   | [CI/CD](07-ci.md)                            | Nov 11    |
+| Nov 12  | 8   | Testing and reviewing                        | Nov 18    |
+| Nov 19  |     | *Reserved for presentations*                 |           |
+| Nov 26  |  9  | Building your public profile                 |   Dec 2   |
+| Dec 3   |     | *Reserved for presentations*                 |           |
 
 *First two lab deadlines extended to accommodate students registering during add/drop period.

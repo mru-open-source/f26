@@ -55,19 +55,6 @@ Four essential freedoms, according to the [Free Software Foundation](https://www
 
 ---
 
-<!-- _class: discussion_question -->
-
-How are projects funded?
-
----
-
-
-<!-- _class: discussion_question -->
-
-How are individuals funded?
-
----
-
 ## More examples
 - The end of the [curl bug bounty program](https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/)
 - Holding [core-js](https://core-js.io/blog/2023-02-14-so-whats-next) "hostage"
@@ -75,6 +62,38 @@ How are individuals funded?
 - For javascript projects, try running `npm fund` to see which of your dependencies are begging for funds!
 
 ---
+
+## Project funding: find some examples
+- Government/nonprofit grants
+- Corporate sponsorship
+- Support agreements
+- Donations (BuyMeACoffee, Paypal, Patreon, OpenCollective, etc)
+- Something else?
+
+---
+
+<!-- _class: discussion_question -->
+
+How are projects funded? Share your examples
+
+---
+
+## Individual funding: find some examples
+Some overlap with previous list, but also:
+- Developer programs (e.g. [Outreachy](https://www.outreachy.org/), [GSoC](https://summerofcode.withgoogle.com/))
+- Bug bounty programs
+- Contribute to FOSS on company time
+- Contracts from projects with funding
+- Something else?
+
+---
+
+<!-- _class: discussion_question -->
+
+How are individuals funded? Share your examples
+
+---
+
 
 ## Coming up next
 - Midterm review, including what to expect on format, number of questions, etc
