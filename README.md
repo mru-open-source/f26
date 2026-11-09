@@ -19,3 +19,4 @@ This repo will serve as the main hub for content, including lecture slides, clas
 | 2026-10-19 | [6. More adventures with git](lectures/06-fancy-git.md) | <a href="lectures/pdfs/06-fancy-git.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
 | 2026-10-21 | [7. Funding Open Source](lectures/07-funding.md) | <a href="lectures/pdfs/07-funding.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
 | 2026-11-02 | [8. Continuous Integration and Deployment](lectures/08-cicd.md) | <a href="lectures/pdfs/08-cicd.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
+| 2026-11-09 | [9. Performing and responding to code reviews](lectures/09-code-reviews.md) | <a href="lectures/pdfs/09-code-reviews.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
