@@ -8,17 +8,17 @@ Suggested PR submission deadline: November 27.
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Part 3: Substantial contribution](#part-3-substantial-contribution)
-  - [Objective](#objective)
-  - [Tasks](#tasks)
-    - [Communicate](#communicate)
-    - [Find a bigger task](#find-a-bigger-task)
-    - [Shadow review](#shadow-review)
-    - [Contribute](#contribute)
-  - [Reporting](#reporting)
-  - [Presentation](#presentation)
-  - [Rubric](#rubric)
-- [Footnotes](#footnotes)
+- [Objective](#objective)
+- [Tasks](#tasks)
+  - [Communicate](#communicate)
+  - [Find a bigger task](#find-a-bigger-task)
+  - [Shadow review](#shadow-review)
+  - [Contribute](#contribute)
+- [Reporting](#reporting)
+  - [One paragraph per task](#one-paragraph-per-task)
+  - [Conclusion](#conclusion)
+- [Presentation](#presentation)
+- [Rubric](#rubric)
 
 <!-- markdown-toc end -->
 
@@ -59,17 +59,53 @@ Overall, try to make a decision on whether the change makes sense and can be acc
 
 
 ### Contribute
-Write a solution to the "bigger task" that you identified earlier. This is a short sentence to type, but a much larger thing to actually do. You'll need to reproduce and isolate the issue (if it's a bug), or figure out where to add the new feature in the codebase.
+Now that you've got a sense of what it feels like on the other end of things, you're in a better position to make a solid contribution! Following the guidelines of your project, submit a pull request with your solution to the "bigger task" that you identified earlier.
 
-Now that you've got a sense of what it feels like on the other end of things, you're in a better position to make a solid contribution! Following the guidelines of your project, submit a pull request with your solution.
+This is likely to be where you spend most of your time. You'll need to reproduce and isolate the issue (if it's a bug), or figure out where to add the new feature in the codebase, then do the actual work of designing and implementing a solution, along with any necessary tests and documentation.
 
 ## Reporting
-As with [part 2](part2.md)
+As with [part 2](part2.md), most of the effort should be on doing the work. The report requirement is just communicating to me what you did so that I can give you credit.
 
 ### One paragraph per task
+Write a paragraph and provide evidence (screenshots, links, etc) describing how you accomplished each task. I should be able to get a sense of what you did without necessarily clicking on all the links.
+
+If there is work that you did that didn't lead to an end product, that's okay! Tell me about it. The main outcome for this class is the learning experience, and part of that is exploring dead ends.
 
 ### Conclusion
 
+In addition to descriptions of the four tasks, write a concluding paragraph describing the key lessons learned in doing this project, and anything that you wish had gone differently.
+
 ## Presentation
 
+As with parts 1 and 2, prepare a presentation to share your experiences. Your presentation should **tell your story** and address the following questions:
+
+- What project did you end up working on?
+- What task did you choose, and how did you approach solving it?
+- What was the most challenging aspect?
+- What was the most rewarding or exciting moment?
+
+Your presentation should be a maximum of **8 minutes**, and should be accompanied by appropriate visuals.
+
 ## Rubric
+
+Each task, as well as the conclusion, will be evaluated on the following 4-point scale (for a total of 20):
+
+| Score | Description                                                            |
+| ----- | ---------------------------------------------------------------------- |
+| 4     | Excellent — thoughtful and creative without any errors or omissions    |
+| 3     | Pretty good, but with minor errors or omissions                        |
+| 2     | Mostly complete, but with major errors or omissions, lacking in detail |
+| 1     | A minimal effort was made, incomplete or incorrect                     |
+| 0     | No effort was made, plagiarized, or obviously AI                       |
+
+The presentation will be scored with an additional five points on a simplified scale:
+
+| Score | Description                                           |
+| ----- | ----------------------------------------------------- |
+| 0     | Did not give presentation                             |
+| 2.5   | Clearly low-effort — missing visuals, very short, etc |
+| 5     | Complete presentation                                 |
+
+This follows the same logic as parts 1 and 2, where the presentation makes up 20\% of the grade.
+
+In addition, a 10\% bonus (2.5 / 25) will be applied if your PR is accepted and merged by the deadline.
