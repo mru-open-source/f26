@@ -31,6 +31,8 @@ Once more, the actual things to do should be the bulk of the work, not the repor
 ### Communicate
 Continue to participate in your projects' communication channels. If you get a chance to join a voice call, do it! It's amazing how much easier it is to understand each other when you've spoken directly.
 
+Added November 20th: Follow through on your contributions from [part 2](part2.md)! Unlike most coursework, participating in FOSS communities is not a one-time thing; typically a pull request will go through several iterations of review/feedback/response before merging. If a reviewer has taken the time to respond to your contribution, don't leave them hanging — update your submission following their advice.
+
 ### Find a bigger task
 In [part 2](part2.md), I asked you to limit the scope of your contribution in order to build trust with the project and be respectful of maintainers' time. Now, it's time to find something a bit bigger to chew on, or multiple smaller things.
 
