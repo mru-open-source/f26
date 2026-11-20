@@ -65,6 +65,8 @@ Now that you've got a sense of what it feels like on the other end of things, yo
 
 This is likely to be where you spend most of your time. You'll need to reproduce and isolate the issue (if it's a bug), or figure out where to add the new feature in the codebase, then do the actual work of designing and implementing a solution, along with any necessary tests and documentation.
 
+Added November 20th: Please follow through with your contributions. Unlike most coursework, this typically involves some back-and-forth with the reviewer/maintainers, so if they take the time to respond to your submission, please respond accordingly.
+
 ## Reporting
 As with [part 2](part2.md), most of the effort should be on doing the work. The report requirement is just communicating to me what you did so that I can give you credit.
 
@@ -72,6 +74,9 @@ As with [part 2](part2.md), most of the effort should be on doing the work. The 
 Write a paragraph and provide evidence (screenshots, links, etc) describing how you accomplished each task. I should be able to get a sense of what you did without necessarily clicking on all the links.
 
 If there is work that you did that didn't lead to an end product, that's okay! Tell me about it. The main outcome for this class is the learning experience, and part of that is exploring dead ends.
+
+> [!IMPORTANT]
+> Please include a link (or multiple links) to your pull request(s). I will check up on these to see how they were received by the community and to see your follow-through.
 
 ### Conclusion
 
