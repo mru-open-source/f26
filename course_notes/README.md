@@ -2,6 +2,13 @@
 
 This directory contains student-authored notes taken from each lecture session. To sign up as the notetaker for a session, assign yourself to one of the [issues](https://github.com/mru-open-source/f26/issues) in the list.
 
+### Asynchronous research article
+To give everyone a chance to contribute to our collective knowledge repository, some of the topics have been labelled with an [async notes](https://github.com/mru-open-source/f26/issues?q=is%3Aissue+state%3Aopen+label%3A%22async+notes%22) label. These are topics that either did not have a notetaker present, were shorter than anticipated, or were not a part of the lecture slides altogether.
+
+If you are authoring one of the async issues, do some exploration of the topic and write up a short (max 500 words) article. Consider including things like pros/cons lists, links to examples, and links to your references. Please **do not use AI** to write this, there's enough slop on the internet already.
+
+If you are reviewing one of the async issues, follow the same reviewer instructions as below. You may need to do a bit of your own independent research to verify the author's work.
+
 ### Instructions: Author
 
 When it is your topic, please take notes during class and write a summary of the discussion in [Markdown format](https://markdownformatting.com/). You may do additional research and add some of your thoughts, but this is not required. Total size should be in the 500 word range, and the use of tables and figures is encouraged where appropriate.
@@ -24,6 +31,8 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 
 > [!NOTE]
 > Reviewing seems like an "easier" task than authoring, but as a reviewer, you are equally responsible for the correctness of the submission.
+
+---
 
 ## Index
 
