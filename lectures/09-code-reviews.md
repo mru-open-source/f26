@@ -1,6 +1,6 @@
 ---
 title: "9. Performing and responding to code reviews"
-date: 2026-11-09
+date: 2026-11-23
 marp: true
 theme: marp-mru
 paginate: true
@@ -13,18 +13,18 @@ _paginate: skip
 
 # <!--fit-->COMP 3700A: Contributing to Open Source
 
-### <!--fit-->Continuous Integration and Deployment
+### <!--fit-->Performing and responding to code reviews
 
 Charlotte Curtis
-November 9, 2026
+November 23, 2026
 
 ---
 
 ## Housekeeping
 - Do we have [notetakers](https://github.com/mru-open-source/f26/issues/) for today?
-  - We might need to come up with some additional topics
-- Have you signed up for [presentations](https://docs.google.com/document/d/1SBj39Y4hJ25eKpYqG4_c4bwkucEmt16X5B2dZOmdDYk/edit?usp=sharing)?
-- How is part two of your project coming along?
+  - Who still needs to do complete a review?
+- We're running out of remaining topics! Some things will need to be async mini research projects
+- Class participation: self-assessment on D2L
 
 ---
 
@@ -114,6 +114,6 @@ Can you find some examples of good and "bad" reviews?
 ---
 
 ## Coming up next
-- No class Wednesday, Rememberance Day
+- Wednesday's class: FOSS Controversies and AI
 - Lab activity: how to check out and build someone else' PR
-- Project part 2 due Friday
+- Homework: help me find [topics for everybody to contribute](https://github.com/mru-open-source/f26/discussions/35)
