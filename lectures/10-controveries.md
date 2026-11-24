@@ -48,6 +48,12 @@ November 25, 2026
 ---
 
 ## Hacktivism: `node-ipc` case study
+- In 2022, the maintainer of a popular node library added a dependency called [`peacenotwar`](https://www.npmjs.com/package/peacenotwar)
+- Everyone who visited an updated website got a new text file on their desktops called `WITH-LOVE-FROM-AMERICA.txt` with a message about peace
+- Some evidence that some versions of `node-ipc` would also overwrite all files for users visiting from Russia with heart emojis
+- Maintainer claimed the
+
+> Sources: [bleeping computer](https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/), [snyk](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/), [ars technica](https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/)
 
 ---
 
