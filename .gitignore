@@ -3,3 +3,6 @@
 
 # temporary marp files
 lectures/*.html
+
+# except this one, it needs fragments. Typo and all.
+!lectures/10-controveries.html
