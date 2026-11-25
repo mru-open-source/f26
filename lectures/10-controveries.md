@@ -75,11 +75,15 @@ November 25, 2026
   * Digs in further, [figures it all out](https://www.openwall.com/lists/oss-security/2024/03/29/4) in time to ensure it doesn't roll out to non-test systems
   * Saves the internet
 
+<div data-marpit-fragment>
+
 > What was the root cause of all this?
+
+</div>
 
 ---
 
-## More on the xz utils story
+## For more reading
 
 - [A summary timeline](https://research.swtch.com/xz-timeline)
 - [Ars Technica article](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
@@ -93,7 +97,7 @@ November 25, 2026
 
 ## 2020s: The rise of LLMS
 * 2021: [GitHub Copilot](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/) was released
-* 2022-2024: AI goes from "kind of entertaining" to "pervasive", [Cursor](https://en.wikipedia.org/wiki/Cursor_(company)) launches 
+* 2022-2024: AI goes from "kind of entertaining" to "pervasive", [Cursor](https://en.wikipedia.org/wiki/Cursor_(company)) launches
 * Early 2025: Andrej Karpathy coins the term [vibe coding](https://x.com/karpathy/status/1886192184808149383), people take it way too seriously
 * Mid 2025: Claude Code and OpenAI Codex launch, developers start offloading even more coding tasks
 * Early 2026: [Coding is solved?](https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens)
@@ -102,3 +106,33 @@ November 25, 2026
 
 ## AI in Open Source
 * Spectrum from [Let's goooo](https://github.com/openclaw/openclaw) to [No way](https://codeberg.org/ethical-foss/ai-free-foss-alternatives)
+* The OSI has released an [Open Source AI Definition](https://opensource.org/ai/open-source-ai-definition) focused solely on defining openness when it comes to AI models (not just LLMs)
+* The GNU project is focused on [legal concerns](https://gcc.gnu.org/ai-policy.html) and [protecting copyleft](https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html)
+* The Software Freedom Conservancy has released [guidelines](https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html) on LLM contributions
+
+<div data-marpit-fragment>
+
+> Fun case study: [matplotlib AI contribution](https://github.com/matplotlib/matplotlib/pull/31132)
+
+</div>
+
+---
+
+## The maintainer's dilemma
+* [Evidence](https://dl.acm.org/doi/full/10.1145/3793302.3793597) points towards AI increasing the maintainer's burden
+* The [Linux Kernel](https://docs.kernel.org/process/coding-assistants.html) has famously accepted AI, using a customized [review agent](https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system) to help ease the burden
+* Many developers [are](https://mondobe.com/ai-makes-me-sad) [just](https://news.ycombinator.com/item?id=48026211) [feeling](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/) [sad](https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/) about how AI has changed their craft
+
+<div data-marpit-fragment>
+
+Further reading:
+- [AI Slop and the Software Commons](https://arxiv.org/abs/2604.16754) — thematic analysis of Reddit/HackerNews comments containing the words "AI Slop"
+- [Advice for contributing in 2026](https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026) — a blog post with good discussion on AI's impact
+
+</div>
+
+---
+
+## Phew
+- That was a lot, what are your thoughts?
+- Here's a [complete listing](controversy-links.md) of all the links I referenced
