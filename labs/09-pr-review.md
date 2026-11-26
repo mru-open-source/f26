@@ -32,15 +32,16 @@ Reviewing a pull request involves building and testing it locally. I already tal
    This is a pretty barebones view of the changes, but it's sufficient for this example. Realistically, viewing the changes in an IDE, purpose-built diff tool, or even GitHub's interface is probably easier.
 
 6. Run the modified code locally. Because this is a Python script, you don't need to build anything, just run the script and test out the new function. Does it do what it says it should do? If there is a linked issue, is the problem solved?
+
    > [!TIP]
    > If you are testing a project with a more extensive build system, you may need to clear a cache or delete build artifacts to trigger a clean rebuild.
 
 7. Instead of actually commenting on the line-by-line changes or adding a comment on GitHub, write your "shadow review" offline. For larger PRs with multiple changed files, a common way to reference specific lines of code is `filename:lineno` syntax, e.g.:
 
-	```
-	process.py:47 This is certainly a choice.
-	```
-	
+   ```
+   process.py:47 This is certainly a choice.
+   ```
+   
 
 > Much of the above can be simplified by using tools like GitHub's [cli](https://cli.github.com/), but as usual, I think it's useful to know what's going on under the hood.
 
