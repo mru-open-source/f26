@@ -18,7 +18,7 @@ The following schedule is tentative, but will be updated each week prior to the 
 | Nov 5   | 7   | [CI/CD](07-ci.md)                                   | Nov 11    |
 | Nov 12  | 8   | [Building your public profile](08-profile.md)       | Nov 18    |
 | Nov 19  |     | *Reserved for presentations*                        |           |
-| Nov 26  | 9   | Testing and reviewing                               | Dec 2     |
+| Nov 26  | 9   | [Reviewing pull requests](09-pr-review.md)          | Dec 2     |
 | Dec 3   |     | *Reserved for presentations*                        |           |
 
 *First two lab deadlines extended to accommodate students registering during add/drop period.
