@@ -3,6 +3,7 @@
 This directory contains student-authored notes taken from each lecture session. To sign up as the notetaker for a session, assign yourself to one of the [issues](https://github.com/mru-open-source/f26/issues) in the list.
 
 ### Asynchronous research article
+
 To give everyone a chance to contribute to our collective knowledge repository, some of the topics have been labelled with an [async notes](https://github.com/mru-open-source/f26/issues?q=is%3Aissue+state%3Aopen+label%3A%22async+notes%22) label. These are topics that either did not have a notetaker present, were shorter than anticipated, or were not a part of the lecture slides altogether.
 
 If you are authoring one of the async issues, do some exploration of the topic and write up a short (max 500 words) article. Consider including things like pros/cons lists, links to examples, and links to your references. Please **do not use AI** to write this, there's enough slop on the internet already.
@@ -36,14 +37,15 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 
 ## Index
 
-| Date | Topic |
-| ---- | ----- |
-| Sept 14 | [Git Concepts](14-09-git-concepts.md) |
-| Sept 16 | [Common Documents in FOSS Projects](16-09-common-docs-in-foss-projects.md) |
-| Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md) |
-| Sep 23 | [Evaluating Project Activity](23-09-evaluating-project-activity.md)|
+| Date    | Topic                                                                        |
+| ------- | ---------------------------------------------------------------------------- | ----- | ----------------------------------------------------------------- | --- |
+| Sept 14 | [Git Concepts](14-09-git-concepts.md)                                        |
+| Sept 16 | [Common Documents in FOSS Projects](16-09-common-docs-in-foss-projects.md)   |
+| Sept 21 | [Open Source Licensing and Copyright](21-09-copyright.md)                    |
+| Sep 23  | [Evaluating Project Activity](23-09-evaluating-project-activity.md)          |
 | Sept 28 | [Navigating Large Codebases](28-09-navigating-large-codebases-with-regex.md) |
-| Oct 19 | [Resolving Conflicts in Git](19-10-resolving-conflicts.md)|
+| Oct 19  | [Resolving Conflicts in Git](19-10-resolving-conflicts.md)                   |
+| Nov 9   |                                                                              | Nov 9 | [Testing and Reviewing Contributions](09-11-testing-reviewing.md) |     |
 
 ## Rubric
 
