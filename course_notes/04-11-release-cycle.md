@@ -9,7 +9,7 @@ Continuous Delivery/Deployment slide
 | Pros | Cons |
 | ---- | ---- |
 | - Faster releases | - No human check, can release bugs |
-| - Always have new features | - Breaking changes; most common for APIs; all of it can be roll back to previous version |
+| - New features can be delivered more frequently | - Breaking changes; most common for APIs; all of it can be rolled back to a previous version |
 | - More end user testing | |
 
 ## Using CD
@@ -23,10 +23,10 @@ Continuous Delivery/Deployment slide
 - Typical workflow for desktop, mobile apps, not really web apps. The former two have longer cycles.
 
 ## Versioning conventions
-- SemVer is one of the most popular versioning where each number has a significance.
+- Semantic Versioning (SemVer) is one of the most popular versioning schemes, where each number in `MAJOR.MINOR.PATCH` has a specific meaning (see [semver.org](https://semver.org)).
   - Python being longstanding at version 3.
     - `print "hello"` -> `print("hello")` demonstrates incompatibility between breaking major version numbering from Python 2 to Python 3.
-  - Minor versioning can be reverse compatible, but not necessarily the other way.
+  - Minor releases should be backward compatible (code written for 1.2 still works on 1.3), but not necessarily forward compatible (code that uses a feature added in 1.3 won't work on 1.2).
   - Pandas 2.3.3 -> 3.0.0 used as demonstration as to why they suddenly jumped, because they accumulated enough changes that it warranted a bump in major version.
 - Calendar versioning
   - Ubuntu is an example of calendar versioning with a consistent schedule twice a year.
