@@ -44,7 +44,7 @@ When you have chosen to (or are assigned to) review a topic, I will give you the
 | Sep 23 | [Evaluating Project Activity](23-09-evaluating-project-activity.md)|
 | Sept 28 | [Navigating Large Codebases](28-09-navigating-large-codebases-with-regex.md) |
 | Oct 19 | [Resolving Conflicts in Git](19-10-resolving-conflicts.md)|
-
+| Nov 2 | [Continuous Integration and Deployment](02-11-cdci.md)|
 ## Rubric
 
 You will be evaluated on the correctness and completeness of your submission according to the following 4-point scale. Both author and reviewer will receive the same score, unless there is a clear and documented effort imbalance.
